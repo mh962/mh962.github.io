@@ -1,0 +1,41 @@
+h1 {
+  color: black;
+  background: white;
+  text-align: center;
+  font-family: Courier, serif;
+}
+
+h2 {
+  color: black;
+  background: white;
+  text-align: center;
+  font-family: Courier, serif;
+}
+
+#logo {
+  text-align: center;
+  margin: auto;
+  background: none;
+  width: 100%;
+}
+
+div {
+  background: white;
+}
+
+ul {
+  font-family: helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 18px; 
+}
+
+p {
+  color: black; 
+  font-family: helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 18px; 
+}
+
+a {
+  color: orange;
+}
