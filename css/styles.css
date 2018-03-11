@@ -1,41 +1,41 @@
+body {
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Trebuchet, sans-serif;
+  margin: 0;
+}
+
+header {
+  align-items: center;
+  background: black;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 20px;
+}
+
 h1 {
-  color: black;
-  background: white;
-  text-align: center;
-  font-family: Courier, serif;
+  color: white;
+  margin: 0;
+  font-family: Palatino, serif;
 }
 
 h2 {
   color: black;
   background: white;
   text-align: center;
-  font-family: Courier, serif;
-}
-
-#logo {
-  text-align: center;
-  margin: auto;
-  background: none;
-  width: 100%;
-}
-
-div {
-  background: white;
-}
-
-ul {
-  font-family: helvetica, sans-serif;
-  font-weight: normal;
-  font-size: 18px; 
-}
-
-p {
-  color: black; 
-  font-family: helvetica, sans-serif;
-  font-weight: normal;
-  font-size: 18px; 
+  font-family: Trebuchet, sans-serif;
 }
 
 a {
   color: orange;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+#photo {
+  text-align: center;
+  margin: auto;
+  background: none;
+  width: 100%;
 }
