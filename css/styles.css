@@ -6,6 +6,14 @@ body {
   margin: 0;
 }
 
+body.indexpic {
+  background-image: url("../images/flower1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Trebuchet, sans-serif;
+  margin: 0;
+}
+
 header {
   align-items: center;
   background: black;
@@ -14,28 +22,28 @@ header {
   padding: 20px 20px;
 }
 
-h1 {
-  color: white;
-  margin: 0;
-  font-family: Palatino, serif;
-}
-
-h2 {
-  color: black;
-  background: white;
-  text-align: center;
-  font-family: Trebuchet, sans-serif;
-}
-
 a {
   color: orange;
   text-decoration: none;
   margin-left: 20px;
 }
 
-#photo {
-  text-align: center;
-  margin: auto;
-  background: none;
-  width: 100%;
+h1 {
+  color: white;
+  margin: 0;
+  font-family: Trebuchet, sans-serif;
 }
+
+h2 {
+  color: white;
+  text-align: center;
+  font-family: Trebuchet, sans-serif;
+}
+
+#flexphoto {
+  text-align: center;
+  align-items: center;
+  line-height 300px
+ } 
+
+
