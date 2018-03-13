@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+
+<html>
+
+	<head>
+		<title>Our Travels</title>
+		<link rel="stylesheet" type="text/css" href="../css/styles.css">
+	</head>
+
+	<body>
+
+		<header>		
+			<h1>The Hickey's Big Adventures</h1>
+			<nav>
+				<a href="../index.html">Home</a>
+				<a href="../pages/capetown">Cape Town</a>
+				<a href="#">Gettysburg</a>
+				<a href="#">Chincoteague</a>
+				<a href="#">London</a>
+			</nav>
+		</header>
+
+		<h2>We celebrated two graduations in Ireland.</h2>
+
+		<div id="flexphoto">
+			<img src="../images/irtrinity.jpg" alt="Trinity Univ" width="300" height="300" style="margin:2px">
+			<img src="../images/irguinness.jpg" alt="Guinness Brewery" width="300" height="300" style="margin:2px">
+			<img src="../images/irstnick.jpg" alt="St Nick" width="300" height="300" style="margin:2px">
+			<img src="../images/irblarney.jpg" alt="Blarney" width="300" height="300" style="margin:2px">
+			<img src="../images/irhinchcliff.jpg" alt="Hinchcliff" width="300" height="300" style="margin:2px">
+			<img src="../images/irmeadow.jpg" alt="Meadow" width="300" height="300" style="margin:2px">
+			<img src="../images/irkillarney.jpg" alt="Killarney" width="300" height="300" style="margin:2px">
+			<img src="../images/ircliffmoher.jpg" alt="Moher" width="300" height="300" style="margin:2px">
+			<img src="../images/irboat.jpg" alt="Shannon River" width="300" height="300" style="margin:2px">
+			<img src="../images/irceiling.jpg" alt="Vaulted Ceiling" width="300" height="300" style="margin:2px">
+			<img src="../images/irchurch.jpg" alt="Church" width="300" height="300" style="margin:2px">
+			<img src="../images/irruins.jpg" alt="Ruins" width="300" height="300" style="margin:2px">
+		</div>
+
+	</body>
+
+	</html>
