@@ -28,6 +28,10 @@ a {
   margin-left: 20px;
 }
 
+div.nav a:hover {
+  color: white;
+}
+
 h1 {
   color: white;
   margin: 0;
@@ -39,6 +43,7 @@ h2 {
   text-align: center;
   font-family: Trebuchet, sans-serif;
 }
+
 
 #flexphoto {
   text-align: center;
